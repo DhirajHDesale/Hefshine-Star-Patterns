@@ -6,7 +6,7 @@ public class Pattern8 {
 	 
 	 Draw this Pattern
 	 
-	 		*
+	 	    *
 	 	   * *
 	 	  * * *
 	 	 * * * *

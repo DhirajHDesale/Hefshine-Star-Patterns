@@ -3,7 +3,7 @@ package practice;
 public class Pattern2 {
 	/*
 	 draw this pattern 
-	  * 
+      * 
     * * 
   * * * 
 * * * * 

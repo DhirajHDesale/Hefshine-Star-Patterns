@@ -6,9 +6,9 @@ public class Pattern21 {
 	 
 	  Draw This Pattern
 	  
-	  		* * * *
-	  	  * * * *
-	  	* * * *
+	  	 * * * *
+	       * * * *
+	    * * * *
 	  * * * *
 	    * * * *
 	      * * * *
